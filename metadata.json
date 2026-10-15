@@ -1,0 +1,6 @@
+{
+  "name": "IntelliSolve AI",
+  "description": "Multi-agent problem-solving and code generation platform to propose, evaluate, compare, and refine solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
